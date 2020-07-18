@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PixelGrid
+  m_Shader: {fileID: -6465566751694194690, guid: 7c1908045f1a60c4d9f5e7682a71e9fa,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_1065A10F: 0.9
+    - Vector1_5C24569B: 0.1
+    - Vector1_660BF973: 0.3
+    - Vector1_69B32CD5: 1
+    - Vector1_9966F23D: 1
+    - Vector1_A524D418: 1
+    - Vector1_AFB27CBB: 0.5
+    - Vector1_BCE7AC97: 0.25
+    - Vector1_F345F4B2: 10
+    - Vector1_F63F8E43: 10
+    m_Colors:
+    - Color_324CBFD7: {r: 0, g: 0, b: 1, a: 0}
+    - Color_A3F74950: {r: 0, g: 1, b: 0, a: 0}
+    - Color_A6A6EDF7: {r: 1, g: 0, b: 0, a: 0}
+    - Vector4_C4497033: {r: 32, g: 18, b: 0, a: 0}
+--- !u!114 &2860498690422615871
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
